@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Charm|Sofia|Alatsi|Trirong|Barlow Semi Condensed|Unkempt&display=swap');
 html{
   scroll-behavior: smooth;
 }
@@ -10,7 +10,9 @@ html{
   color: white;
   text-align: center;
   padding-top:17%; 
-  font-family: 'Gabriela', serif;
+  /* font-family: 'Gabriela', serif; */
+  font-family: 'Alatsi';
+
   /* padding-bottom:5%; */
 }
 .landing h1{
@@ -55,7 +57,7 @@ html{
   font-family: 'Copse', serif;
 }
 #about{
-  font-family: 'Gabriela', serif;
+    font-family: "Trirong", serif;
 }
 .services{
   text-align: center;
@@ -68,7 +70,8 @@ html{
   font-size: 18px;
 }
 .services h2{
-  font-family: 'Gabriela', serif;
+  /* font-family: 'Gabriela', serif; */
+  font-family: 'Amarante';
   
 }
 #servicesoverlay{
@@ -99,7 +102,7 @@ html{
 .portfolio h2{
   text-align: center;
   padding-top:40px;
-  font-family: 'Gabriela', serif;
+  font-family: 'Barlow Semi Condensed';
 }
 .contact{
   background-image: url('../assets/backgrounds/c_image.jpg');
